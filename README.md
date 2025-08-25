@@ -4,6 +4,15 @@
 
 WeatherApp is a modern weather application that allows users to check the current weather and forecasts for any city worldwide. The app displays data in a sleek, responsive interface with dynamic animations and intuitive navigation.
 
+## Screens and Videos
+<img width="1025" height="811" alt="1" src="https://github.com/user-attachments/assets/9bbad0d9-b485-4d5d-a9a8-f639c3453e8e" />
+
+
+https://github.com/user-attachments/assets/64f68c0e-be5d-4c89-a945-364616a7d03e
+
+
+
+
 ### Features
 
 - **City search** – search weather for any city in the world  
